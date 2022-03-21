@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: rgba(131, 167, 179, 0.418);
+    padding: 50px;
+    margin: auto;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    border-radius: 15px;
+    width: 300px;
+    height: 500px;
+    max-width: 500px;
+
+}
+.imagem01 {
+     padding: 20px;
+     margin: -40px;
+     border-radius: 20px;
+     height: auto;
+ }
+
+ img {
+     margin: -5px;
+    border-radius: 10px;
+    height: 48vh;
+    position: static;
+ }
+
+ h1 {
+     padding: 2px;
+     margin: auto;
+     text-align: left;
+ }
+
+ p {
+    padding: 5px;
+     text-align: center;
+ }
+.attribution { font-size: 11px; text-align: center;
+
+}
+.attribution a { color: hsl(228, 45%, 44%);
+
+}
