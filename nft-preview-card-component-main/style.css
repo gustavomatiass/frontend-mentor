@@ -1,0 +1,98 @@
+
+body {
+    background-color: #0B1726 ;
+    padding: 180px;
+    margin: auto;
+    max-width: 600px;
+}
+
+main {
+    background-color: #162C40;
+    width: 262px;
+    padding: 10px;
+    border-radius: 18px;
+    margin: -70px;
+    border: 10px  solid rgba(0, 0, 0, 0.055);
+}
+
+h1 {
+    padding: 0px;
+    color: white;
+}
+
+hr {
+ 
+}
+
+p {
+    color:#7084A5;
+    padding: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #04ADBF;
+}
+
+.nft02 a:hover {
+  background-image: url("images/icon-view.svg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height:300px;
+  width:400px;
+}
+
+.eth {
+    display: inline;
+    color: #04ADBF ;
+    height: 10px;
+}
+
+.dias {
+    display: inline;
+    text-align:right;
+    padding: 10px;
+}
+
+.conteudo {
+    display: table-cell;
+}
+
+.avatar {
+    width: 50px;
+    display: inline;
+    display: table-cell ;
+    float: left;
+}
+
+.jules {
+    display: inline;
+   padding: 15px;
+   text-align: center;
+   margin: 0px;
+    display: table-cell;
+}
+
+.nft {
+    padding: -19px;
+    width: 260px;
+    margin: auto;
+    border-radius: 20px;
+}
+ footer {
+     padding: 70px;
+     margin: 10px;
+     text-align: center;
+ }
+
+
+.attribution { 
+    font-size: 11px; text-align: center;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
