@@ -1,0 +1,66 @@
+
+
+body {
+    background-image: url('images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-color: #E0E8FF;
+    margin: auto;
+    padding: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: white;
+    margin: 42px;
+    padding: 25px;
+    border-radius: 20px ;
+}
+
+img {
+    border-radius: 20px 20px 0px 0px  ;
+}
+
+.capa {
+    
+    padding: -10px;
+    margin: -26px
+}
+
+h1 {
+    padding: 0px;
+    margin: 59px 77px 11px 78px;
+    color: #1F2E57;
+}
+
+.conteudo {
+    color: #7E849E;
+    margin: 29px 59px 7px 46px;
+    text-align: center;
+}
+
+.conteudo02 {
+    display: table;
+    display: inline;
+}
+
+.musica {
+    
+    display: inline;
+    display: table-cell ;
+    float: left;
+    margin: 5px;
+    padding: 0px;
+}
+
+.mensalidade {
+    display: inline;
+   text-align: center;
+    display: table-cell;
+    margin: 5px;
+    padding: 10px;
+}
+
+.change {
+    display: inline-block;
+    float: right;
+}
