@@ -2,22 +2,51 @@
     --cor01:#3F2540;
     --cor02:#4D214C;
     --cor03:#918990;
+    --cor04:#F7F2F8;
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: -24px;
+    padding: 47px;
+    
 }
 main {
     padding: 80px;
     padding: 88px;
+    margin: auto;
+}
+.container {
+    display: flex;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+  
+}
+.star {
+    background-color: var(--cor04);
+    padding: 10px;
+    margin: 20px;
+    height: 40px;
+    width: 350px;
+    
+}
+
+.msg {
+    background-color: #511F50;
+    padding: 20px;
+    margin: 20px;
 }
 h1 {
     color: var(--cor02);
     font-size: 3em;
+    display: inline-block;
+    padding: 136px;
+    margin: -60px;
+    
 }
 .head{
     color: var(--cor03);
     margin: 9px;
-    padding: -9px;
 }
 
 
