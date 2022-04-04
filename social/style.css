@@ -1,0 +1,41 @@
+:root {
+    --cor01:#3F2540;
+    --cor02:#4D214C;
+    --cor03:#918990;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    padding: 80px;
+    padding: 88px;
+}
+h1 {
+    color: var(--cor02);
+    font-size: 3em;
+}
+.head{
+    color: var(--cor03);
+    margin: 9px;
+    padding: -9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
