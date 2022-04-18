@@ -1,0 +1,96 @@
+body{
+    margin: auto;
+    padding: 161px;
+}
+
+@media screen and (max-width: 700px) {
+    body{
+        margin: auto;
+        width: 0;
+    }
+    main{
+        
+    }
+  }
+
+main{
+    display: flex;
+}
+
+.box{
+    
+    padding: 21%;
+    margin: 14px;
+}
+
+
+
+h1 {
+    color: white;
+}
+
+p{
+    padding: 10px;
+    color: white;
+    margin: 20px;
+}
+
+.box-color1{
+    background-color: #E28525;
+    display: flex;
+    
+}
+
+.box-color2{
+    background-color: #016972;
+    display: flex;
+   
+}
+.box-color3{
+    background-color: #00403F;
+    display: flex;
+    
+}
+
+.span1{
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.span1:hover {
+    background-color: white;
+    color: #E28525;
+}
+
+.span2{
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.span2:hover {
+    background-color: white;
+    color: #016972;
+}
+
+.span3{
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.span3:hover {
+    background-color: white;
+    color: #00403F;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
